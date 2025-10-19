@@ -10,14 +10,19 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 AND, NAND gates connected to input a and b.
+
 NOT gate connected to input d.
+
 Two NOR gates connected in series with one feedback loop from output 7 and inputs from g and h.
 
 ## Logic behavior
 
 AND gate: Y_AND = a · b
+
 NAND gate: Y_NAND = ¬(a · b)
+
 NOT gate: Y_NOTd = ¬d
+
 NOR latch:
   Inputs: g → Set (S), h → Reset (R)
   Outputs: Q (main), Q̅ (complement)
@@ -35,6 +40,7 @@ NOR latch:
 | 1 | 0 | 1 | 0     | 1      | 0      |
 | 1 | 1 | 0 | 1     | 0      | 1      |
 | 1 | 1 | 1 | 1     | 0      | 0      |
+
 
 SR latch (g → S, h → R)
 | S (g) | R (h) | Q_next | Q̅_next | Description           |
