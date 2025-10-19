@@ -30,9 +30,9 @@ pinout:
   uo[1]: "output nand"
   uo[2]: "output not"
   uo[3]: "output not"
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[4]: "output "
+  uo[5]: "output "
+  uo[6]: "output "
   uo[7]: "output nor feedback"
 
   # Bidirectional pins
