@@ -1,6 +1,9 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# Tiny Tapeout Wokwi Project 
+
+<img width="2074" height="1453" alt="image" src="https://github.com/user-attachments/assets/623c8b8c-9254-4250-8a39-065bb36ab324" />
+
 
 - [Read the documentation for project](docs/info.md)
 
