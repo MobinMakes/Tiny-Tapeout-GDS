@@ -27,7 +27,7 @@ pinout:
 
   # Outputs
   uo[0]: "output and"
-  uo[1]: ""
+  uo[1]: "output nand"
   uo[2]: "output not"
   uo[3]: "output not"
   uo[4]: ""
